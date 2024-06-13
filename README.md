@@ -53,5 +53,5 @@ We welcome contributions! If you would like to contribute to Pynon, please fork 
 
 6. **Contact**
 
-For any questions or suggestions, please feel free to open an issue or contact us at [email@example.com](mailto:an0nbilsec@gmail.com).
+For any questions or suggestions, please feel free to open an issue or contact us at [an0nbilsec@gmail.com](mailto:an0nbilsec@gmail.com).
 
