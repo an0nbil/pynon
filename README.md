@@ -1,12 +1,5 @@
 # **Pynon: Your Ultimate Bioinformatics Pipeline**
 
-  _ __  _   _ _ __   ___  _ __   
- | '_ \| | | | '_ \ / _ \| '_ \  
- | |_) | |_| | | | | (_) | | | | 
- | .__/ \__, |_| |_|\___/|_| |_| 
- | |     __/ |                   
- |_|    |___/   
-
 ## **Introduction**
 
 Welcome to **Pynon**, your ultimate bioinformatics pipeline to evaluate your work! This tool allows you to easily input your sequence and see the magic as it counts the occurrences of 'G' and 'C' in your DNA sequences.
